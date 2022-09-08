@@ -2,8 +2,10 @@
 
 /** 
 * main - Entry point
-* Description: use printf
-* Return: Always 0 (Success)
+*
+* Description: use the main function
+* this programs prints "Programming is like building a multilingual puzzle 
+* Return: 0
 */
 int main(void)
 {
