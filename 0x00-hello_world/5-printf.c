@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-/** 
-* main - print the string in the put function
-*
-* Description: use the main function
-* this programs prints "Programming is like building a multilingual puzzle 
-* Return: 0
+/**
+* main - Entry point
+* Description: use printf
+* Return: Always 0 (Success)
 */
 int main(void)
 {
