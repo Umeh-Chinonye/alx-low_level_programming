@@ -4,8 +4,7 @@
 
 /**
 * main - entry point
-* Description: using the main function
-* this program prints "Programming is positive, zero or negative
+* Description: assigns random number to n each time n it's executed
 * RETURN: 0
 */
 int main(void)
