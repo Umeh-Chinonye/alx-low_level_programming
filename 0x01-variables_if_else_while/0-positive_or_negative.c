@@ -9,7 +9,7 @@
 * this program prints "Programming is positive, zero or negative
 * Return: 0
 */
-init main(void)
+int main(void)
 {
 int n;
 srand(time(0));
